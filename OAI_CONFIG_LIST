@@ -1,0 +1,20 @@
+
+[
+
+    {
+        "model": "gpt-3.5-turbo-1106",
+        "api_key": "sk-OqlsJwGTMdD1ujTG02Bb0fE08b7f4b30B07d8e83012bA8A8",
+        "base_url": "https://oneapi.xty.app/v1"
+    },
+        {
+        "model": "gpt-4",
+        "api_key": "sk-oHU6dU0T54jW0h7n8838C0AfA1F04fEbB0B27c4fCaF94c5d",
+        "base_url": "https://oneapi.xty.app/v1"
+    },
+            {
+        "model": "gpt-4-1106-preview",
+        "api_key": "sk-oHU6dU0T54jW0h7n8838C0AfA1F04fEbB0B27c4fCaF94c5d",
+        "base_url": "https://oneapi.xty.app/v1"
+    }
+ 
+]
